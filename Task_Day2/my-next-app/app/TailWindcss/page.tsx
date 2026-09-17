@@ -1,4 +1,4 @@
-export default function Tailwind() {
+git statusexport default function Tailwind() {
   return (
     <div className="p-10">
       <h1 className="text-3xl font-bold">
