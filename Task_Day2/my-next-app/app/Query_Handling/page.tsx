@@ -5,8 +5,8 @@ import { useSearchParams } from "next/navigation";
 export default function Products() {
   const searchParams = useSearchParams();
 
-  const category = searchParams.get("category");
-  const price = searchParams.get("price");
+  const category = searchParams.get("category")
+  const price = searchParams.get("price")
 
   return (
     <div>
