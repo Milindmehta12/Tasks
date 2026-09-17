@@ -1,0 +1,55 @@
+What is Shadcn UI?
+
+Shadcn UI is a collection of reusable UI components for React/Next.js.
+
+It provides ready-made components like:
+
+Button
+Input
+Card
+Dialog
+Form
+Dropdown
+Table
+Checkbox
+
+
+For example, instead of creating a button from scratch:
+
+<button className="...">
+  Login
+</button>
+
+
+
+Why is Shadcn UI used?
+1. Faster development ⚡
+
+You don't have to build common UI components from zero.
+
+Without Shadcn:
+Design → CSS → Component → Testing
+
+With Shadcn:
+Install component → Use → Customize
+2. Consistent UI
+
+Your buttons, forms, dialogs, etc. can follow a consistent design throughout the application.
+
+3. Easy customization
+
+You can modify the component's code and styling according to your project.
+
+4. Good for professional applications
+
+It's commonly used with:
+
+Next.js
++
+React
++
+TypeScript
++
+Tailwind CSS
++
+Shadcn UI
